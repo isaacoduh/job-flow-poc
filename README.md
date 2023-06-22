@@ -11,3 +11,9 @@
 - Getting All Jobs
 - Getting A Single Job 
 
+### Special Note
+    - Routes/api, Routes/web
+    - Controllers/JobControllers
+    - Models/Job
+    - database/migration/create-jobs-table
+
