@@ -17,3 +17,6 @@
     - Models/Job
     - database/migration/create-jobs-table
 
+### Screens
+![Screenshot](screenshots/alljobs.png)
+![Screenshot](screenshots/single-job.png)
